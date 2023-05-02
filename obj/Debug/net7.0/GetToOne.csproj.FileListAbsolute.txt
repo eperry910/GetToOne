@@ -1,0 +1,15 @@
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\bin\Debug\net7.0\GetToOne.exe
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\bin\Debug\net7.0\GetToOne.deps.json
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\bin\Debug\net7.0\GetToOne.runtimeconfig.json
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\bin\Debug\net7.0\GetToOne.dll
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\bin\Debug\net7.0\GetToOne.pdb
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.csproj.AssemblyReference.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.AssemblyInfoInputs.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.AssemblyInfo.cs
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.csproj.CoreCompileInputs.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.dll
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\refint\GetToOne.dll
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.pdb
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\GetToOne.genruntimeconfig.cache
+C:\Users\eperr\Documents\Revature Notes\projects\Staging\Challenges\GetToOne\obj\Debug\net7.0\ref\GetToOne.dll
